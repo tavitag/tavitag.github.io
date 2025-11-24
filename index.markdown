@@ -18,3 +18,6 @@ Tavita Garrett (she/her) is a neuroscientist with expertise in retinal biology, 
 
 * [About me](https://tavitag.github.io/about)
 * [About the Sivyer lab](https://sivyerlab.com/)
+
+![Spontaneous Activity Electrical Image](C:\Users\tavit\Documents\Git\tavitag.github.io\public\electrical_image.gif)
+[Spontaneous Activity Electrical Image](C:\Users\tavit\Documents\Git\tavitag.github.io\public\electrical_image.gif)

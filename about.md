@@ -2,14 +2,11 @@
 layout: page
 title: About
 ---
-### Resume 👔 - 🚧 *under construction* 🚧
+### 👔 resume  - 🚧 *under construction* 🚧
 
-### CV 🥼 - 🚧 *under construction* 🚧
+### 🥼 CV  - 🚧 *under construction* 🚧
 
-### Dissertation 📜
-
-[Abstract | OHSU Digital Collections](https://digitalcollections.ohsu.edu/record/43400?ln=en&p=Tavita+Garrett)
-> **note:**  My dissertation is under embargo until June 2026. Please email me to request a copy. 
+### 📜 Dissertation - [OHSU Digital Collections](https://digitalcollections.ohsu.edu/record/43400?ln=en&p=Tavita+Garrett){:target="_blank"}
 
 ### Links 🔗
 * [LinkedIn](https://linkedin.com/in/tavitagarrett/)

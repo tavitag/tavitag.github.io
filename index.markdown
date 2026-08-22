@@ -14,10 +14,10 @@ Tavita Garrett (she/her) is a neuroscientist with expertise in retinal biology, 
 </p>
 
 ### 👩🏾‍🔬 | Current Position 
-* **Postdoctoral Researcher** in the [Leffler Lab](https://sivyerlab.com/) at [OHSU Casey Eye Institute](https://www.ohsu.edu/casey-eye-institute)
+* **Postdoctoral Researcher** in the [Leffler Lab](https://lefflerlabretina.com/) at [OHSU Casey Eye Institute](https://www.ohsu.edu/casey-eye-institute)
 
 ### 🧭 | Past Positions 
-* **Graduate Researcher**, Sivyer Lab - OHSU 
+* **Graduate Researcher**, [Sivyer Lab](https://sivyerlab.com/) - OHSU 
 	Focused on retinal circuitry using electrophysiology and molecular tools
 
 * **Graduate Researcher**, Trussell Lab - OHSU 
@@ -29,6 +29,7 @@ Tavita Garrett (she/her) is a neuroscientist with expertise in retinal biology, 
 ### ✨ | More 
 
 * [About Me](https://tavitag.github.io/about)
+* [About the Leffler Lab](https://lefflerlabretina.com/)
 * [About the Sivyer Lab](https://sivyerlab.com/)
 
 {% comment %}

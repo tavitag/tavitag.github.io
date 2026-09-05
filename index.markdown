@@ -14,23 +14,23 @@ Tavita Garrett (she/her) is a neuroscientist with expertise in retinal biology, 
 </p>
 
 ### 👩🏾‍🔬 | Current Position 
-* **Postdoctoral Researcher** in the [Leffler Lab](https://lefflerlabretina.com/) at [OHSU Casey Eye Institute](https://www.ohsu.edu/casey-eye-institute)
+* **Postdoctoral Researcher** in the [Leffler Lab](https://lefflerlabretina.com/){:target="_blank"} at [OHSU Casey Eye Institute](https://www.ohsu.edu/casey-eye-institute){:target="_blank"}
 
 ### 🧭 | Past Positions 
-* **Graduate Researcher**, [Sivyer Lab](https://sivyerlab.com/) - OHSU 
+* **Graduate Researcher**, [Sivyer Lab](https://sivyerlab.com/){:target="_blank"} - OHSU 
 	Focused on retinal circuitry using electrophysiology and molecular tools
 
 * **Graduate Researcher**, Trussell Lab - OHSU 
 	Focused on cerebellar microcircuits
 
 * **Postbac Researcher**, Yasuda Lab, MPFI 
-    Focused on insulin-like growth factor dependent structural plasticity in    hippocampus using 2-photon imaging
+    Focused on insulin-like growth factor dependent structural plasticity in hippocampus using 2-photon imaging
 
 ### ✨ | More 
 
-* [About Me](https://tavitag.github.io/about)
-* [About the Leffler Lab](https://lefflerlabretina.com/)
-* [About the Sivyer Lab](https://sivyerlab.com/)
+* [About Me](https://tavitag.github.io/about){:target="_blank"}
+* [About the Leffler Lab](https://lefflerlabretina.com/){:target="_blank"}
+* [About the Sivyer Lab](https://sivyerlab.com/){:target="_blank"}
 
 {% comment %}
 ![Spontaneous Activity Electrical Image](C:\Users\tavit\Documents\Git\tavitag.github.io\public\electrical_image.gif)

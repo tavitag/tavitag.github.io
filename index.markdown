@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home  🏡
+title: 🏡 | Home  
 ---
 {% comment %}
 **Electrical Images SfN** [LINK](https://github.com/tavitag/tavitag.github.io/tree/main/public)

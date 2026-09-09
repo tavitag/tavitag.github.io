@@ -248,3 +248,13 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+/* Image Background */
+.theme-base-bg .sidebar {
+  background-color: #202020; /* fallback while the image loads */
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
+    url("../sidebar-FISH.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
